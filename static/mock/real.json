@@ -1,0 +1,1397 @@
+[
+  {
+    "content": "在五组东建路一处减速带坏了，影响行人行走。",
+    "createDateStr": "2018.11.12",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602009",
+      "fullOrgName": "启东市-东海镇-丰盛村-网格1",
+      "fullPinyin": "guanyinshanjiedao",
+      "homePageVersion": 0,
+      "id": 4211,
+      "maxCode": 20,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602009",
+      "orgInternalCode": ".1.6.1.9.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "观音山街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 1,
+      "simplePinyin": "gysjd",
+      "subCount": 20,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 2162,
+    "issueTypeName": "安全隐患",
+    "occurDateStr": "2018.11.12",
+    "occurLocation": "",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "减速带坏了"
+  },
+  {
+    "content": "黄卫忠宅前，由于树木过高，触碰高压电线，存在安全隐患",
+    "createDateStr": "2018.11.16",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602009",
+      "fullOrgName": "启东市-海复镇-复南村-网格1",
+      "fullPinyin": "guanyinshanjiedao",
+      "homePageVersion": 0,
+      "id": 4211,
+      "maxCode": 20,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602009",
+      "orgInternalCode": ".1.6.1.9.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "观音山街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 1,
+      "simplePinyin": "gysjd",
+      "subCount": 20,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 2161,
+    "issueTypeName": "安全隐患",
+    "occurDateStr": "2018.11.16",
+    "occurLocation": "",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "高压电碰树杆"
+  },
+  {
+    "content": "河湾村网格3巡查时发现有危桥，对行人安全存在隐患",
+    "createDateStr": "2018.11.14",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602009",
+      "fullOrgName": "启东市-南阳镇-南兴村-网格1",
+      "fullPinyin": "guanyinshanjiedao",
+      "homePageVersion": 0,
+      "id": 4211,
+      "maxCode": 20,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602009",
+      "orgInternalCode": ".1.6.1.9.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "观音山街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 1,
+      "simplePinyin": "gysjd",
+      "subCount": 20,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 2102,
+    "issueTypeName": "安全隐患",
+    "occurDateStr": "2018.11.14",
+    "occurLocation": "",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "河湾村网格3巡查中发现一危桥"
+  },
+  {
+    "content": "东岗二组杨健家建房，许多建筑材料堆放在道路上，影响周边居民进出",
+    "createDateStr": "2018.11.15",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602009",
+      "fullOrgName": "启东市-王鲍镇-元北村-网格2",
+      "fullPinyin": "guanyinshanjiedao",
+      "homePageVersion": 0,
+      "id": 4211,
+      "maxCode": 20,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602009",
+      "orgInternalCode": ".1.6.1.9.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "观音山街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 1,
+      "simplePinyin": "gysjd",
+      "subCount": 20,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 2101,
+    "issueTypeName": "安全隐患",
+    "occurDateStr": "2018.11.15",
+    "occurLocation": "",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "建筑垃圾随意堆放道路上"
+  },
+  {
+    "content": "永胜村第五网格路杆倾斜，已联系社工将其恢复原位",
+    "createDateStr": "2018.11.13",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602006",
+      "fullOrgName": "启东市-王鲍镇-长安村-网格3",
+      "fullPinyin": "xuetianjiedao",
+      "homePageVersion": 0,
+      "id": 4181,
+      "maxCode": 7,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602006",
+      "orgInternalCode": ".1.6.1.6.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "学田街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 8,
+      "simplePinyin": "xtjd",
+      "subCount": 7,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 2071,
+    "issueTypeName": "安全隐患",
+    "occurDateStr": "2018.11.13",
+    "occurLocation": "",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "永胜村第五网格路杆倾斜"
+  },
+  {
+    "content": "果园村第四网格垃圾未及时清理，垃圾堆放在路边，已联系环卫工人清走",
+    "createDateStr": "2018.11.11",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602006",
+      "fullOrgName": "启东市-合作镇-周云村-网格1",
+      "fullPinyin": "xuetianjiedao",
+      "homePageVersion": 0,
+      "id": 4181,
+      "maxCode": 7,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602006",
+      "orgInternalCode": ".1.6.1.6.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "学田街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 8,
+      "simplePinyin": "xtjd",
+      "subCount": 7,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 2070,
+    "issueTypeName": "城市管理",
+    "occurDateStr": "2018.11.11",
+    "occurLocation": "",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "果园村第四网格垃圾未及时清理"
+  },
+  {
+    "content": "垃圾随意丢弃在村里广场健身器材帮，影响村民健身",
+    "createDateStr": "2018.11.8",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602008",
+      "fullOrgName": "启东市-惠萍镇--鸿西村-网格1",
+      "fullPinyin": "wenfengjiedao",
+      "homePageVersion": 0,
+      "id": 4199,
+      "maxCode": 14,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602008",
+      "orgInternalCode": ".1.6.1.8.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "文峰街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 4,
+      "simplePinyin": "wfjd",
+      "subCount": 13,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 2069,
+    "issueTypeName": "城市管理",
+    "occurDateStr": "2018.11.8",
+    "occurLocation": "",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "垃圾随意堆放"
+  },
+  {
+    "content": "外地人将农作物秸秆洒在道路中间，影响通行，叮嘱其尽快处理干净，方便百姓通行。",
+    "createDateStr": "2018.11.9",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602005",
+      "fullOrgName": "启东市-惠萍镇--鸿西村-网格1",
+      "fullPinyin": "hongqiaojiedao",
+      "homePageVersion": 0,
+      "id": 4169,
+      "maxCode": 11,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602005",
+      "orgInternalCode": ".1.6.1.5.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "虹桥街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 10,
+      "simplePinyin": "hqjd",
+      "subCount": 11,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 2068,
+    "issueTypeName": "城市管理",
+    "occurDateStr": "2018.11.9",
+    "occurLocation": "",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "外地人将农作物秸秆洒在道路中间，影响通行"
+  },
+  {
+    "content": "村垃圾中转站垃圾乱堆，严重影响周边环境，已转告保洁员整理好。",
+    "createDateStr": "2018.11.10",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602001",
+      "fullOrgName": "启东市-惠萍镇--鸿西村-网格1",
+      "fullPinyin": "chengdongjiedao",
+      "homePageVersion": 0,
+      "id": 4131,
+      "maxCode": 11,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602001",
+      "orgInternalCode": ".1.6.1.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "城东街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 6,
+      "simplePinyin": "cdjd",
+      "subCount": 11,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1944,
+    "issueTypeName": "城市管理",
+    "occurDateStr": "2018.11.10",
+    "occurLocation": "",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "村垃圾中转站垃圾乱堆"
+  },
+  {
+    "content": "我在大兴镇村网格8巡街发现，放学高峰期因车子乱停放现象导致交通堵塞",
+    "createDateStr": "2018.11.17",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602001",
+      "fullOrgName": "惠萍镇--鸿西村-网格1",
+      "fullPinyin": "chengdongjiedao",
+      "homePageVersion": 0,
+      "id": 4131,
+      "maxCode": 11,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602001",
+      "orgInternalCode": ".1.6.1.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "城东街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 6,
+      "simplePinyin": "cdjd",
+      "subCount": 11,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1941,
+    "issueTypeName": "城市管理",
+    "occurDateStr": "2018.11.17",
+    "occurLocation": "惠萍镇",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "大兴镇村网格8因车子乱停导致交通堵塞"
+  },
+  {
+    "content": "河湾村网格二10组路段垃圾桶侧翻，压在路边绿化花草上",
+    "createDateStr": "2018.11.18",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602001",
+      "fullOrgName": "惠萍镇--鸿西村-网格1",
+      "fullPinyin": "chengdongjiedao",
+      "homePageVersion": 0,
+      "id": 4131,
+      "maxCode": 11,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602001",
+      "orgInternalCode": ".1.6.1.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "城东街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 6,
+      "simplePinyin": "cdjd",
+      "subCount": 11,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1940,
+    "issueTypeName": "城市管理",
+    "occurDateStr": "2018.11.18",
+    "occurLocation": "惠萍镇",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "河湾村网格二10组路段垃圾桶侧翻"
+  },
+  {
+    "content": "云祥村六组黄云兵宅前有生活垃圾",
+    "createDateStr": "2018.11.20",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602001",
+      "fullOrgName": "惠萍镇--鸿西村-网格1",
+      "fullPinyin": "chengdongjiedao",
+      "homePageVersion": 0,
+      "id": 4131,
+      "maxCode": 11,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602001",
+      "orgInternalCode": ".1.6.1.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "城东街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 6,
+      "simplePinyin": "cdjd",
+      "subCount": 11,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1939,
+    "issueTypeName": "城市管理",
+    "occurDateStr": "2018.11.20",
+    "occurLocation": "云祥村六组黄云兵宅前",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "云祥村六组黄云兵宅前有生活垃圾"
+  },
+  {
+    "content": "排查中发现垃圾桶缺盖子，并且切周围垃圾未清理，影响周边环境",
+    "createDateStr": "2018.11.19",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602001",
+      "fullOrgName": "王鲍镇-长安村-网格3",
+      "fullPinyin": "chengdongjiedao",
+      "homePageVersion": 0,
+      "id": 4131,
+      "maxCode": 11,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602001",
+      "orgInternalCode": ".1.6.1.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "城东街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 6,
+      "simplePinyin": "cdjd",
+      "subCount": 11,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1936,
+    "issueTypeName": "城市管理",
+    "occurDateStr": "2018.11.19",
+    "occurLocation": "",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "垃圾桶缺盖子，垃圾益处"
+  },
+  {
+    "content": "路桩被撞烂",
+    "createDateStr": "2018.11.28",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602001",
+      "fullOrgName": "东海镇-丰盛村-网格1",
+      "fullPinyin": "chengdongjiedao",
+      "homePageVersion": 0,
+      "id": 4131,
+      "maxCode": 11,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602001",
+      "orgInternalCode": ".1.6.1.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "城东街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 6,
+      "simplePinyin": "cdjd",
+      "subCount": 11,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1935,
+    "issueTypeName": "公共安全",
+    "occurDateStr": "2018.11.28",
+    "occurLocation": "西宁村",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "路桩被撞烂"
+  },
+  {
+    "content": "东岗一组西南片中心路路面损坏积水",
+    "createDateStr": "2018.11.30",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602008",
+      "fullOrgName": "合作镇-周云村-网格1",
+      "fullPinyin": "wenfengjiedao",
+      "homePageVersion": 0,
+      "id": 4199,
+      "maxCode": 14,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602008",
+      "orgInternalCode": ".1.6.1.8.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "文峰街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 4,
+      "simplePinyin": "wfjd",
+      "subCount": 13,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1934,
+    "issueTypeName": "公共安全",
+    "occurDateStr": "2018.11.30",
+    "occurLocation": "东岗一组",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "道路损坏积水"
+  },
+  {
+    "content": "一块铁皮倒在下来没有及时处理，有一定的危险",
+    "createDateStr": "2018.11.31",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602008",
+      "fullOrgName": "惠萍镇--鸿西村-网格2",
+      "fullPinyin": "wenfengjiedao",
+      "homePageVersion": 0,
+      "id": 4199,
+      "maxCode": 14,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602008",
+      "orgInternalCode": ".1.6.1.8.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "文峰街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 4,
+      "simplePinyin": "wfjd",
+      "subCount": 13,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1933,
+    "issueTypeName": "公共安全",
+    "occurDateStr": "2018.11.31",
+    "occurLocation": "搬场村",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "铁皮倒在地上"
+  },
+  {
+    "content": "垃圾堆放在桥头没有及时清运，已通知相关人员及时清运",
+    "createDateStr": "2018.11.21",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602008",
+      "fullOrgName": "惠萍镇--鸿西村-网格2",
+      "fullPinyin": "wenfengjiedao",
+      "homePageVersion": 0,
+      "id": 4199,
+      "maxCode": 14,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602008",
+      "orgInternalCode": ".1.6.1.8.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "文峰街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 4,
+      "simplePinyin": "wfjd",
+      "subCount": 13,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1932,
+    "issueTypeName": "公共安全",
+    "occurDateStr": "2018.11.21",
+    "occurLocation": "寅西村",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "垃圾没有及时清运"
+  },
+  {
+    "content": "南阳镇乐庭一组路边砖块堆放，影响出行",
+    "createDateStr": "2018.11.32",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602009",
+      "fullOrgName": "惠萍镇--鸿西村-网格2",
+      "fullPinyin": "guanyinshanjiedao",
+      "homePageVersion": 0,
+      "id": 4211,
+      "maxCode": 20,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602009",
+      "orgInternalCode": ".1.6.1.9.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "观音山街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 1,
+      "simplePinyin": "gysjd",
+      "subCount": 20,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1694,
+    "issueTypeName": "公共安全",
+    "occurDateStr": "2018.11.32",
+    "occurLocation": "南阳镇乐庭一组",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "路边砖块堆放影响出行"
+  },
+  {
+    "content": "雨天路滑，风大刮断树枝，影响交通，推至农田内",
+    "createDateStr": "2018.11.29",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602009",
+      "fullOrgName": "南阳镇-南兴村-网格1",
+      "fullPinyin": "guanyinshanjiedao",
+      "homePageVersion": 0,
+      "id": 4211,
+      "maxCode": 20,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602009",
+      "orgInternalCode": ".1.6.1.9.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "观音山街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 1,
+      "simplePinyin": "gysjd",
+      "subCount": 20,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1689,
+    "occurDateStr": "2018.11.29",
+    "occurLocation": "搬场村",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "路边树枝",
+    "issueTypeName": "公共安全"
+  },
+  {
+    "content": "汇城角九组清理水生植物",
+    "createDateStr": "2018.11.33",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602009",
+      "fullOrgName": "吕四港经济开发区-边防村-网格2",
+      "fullPinyin": "guanyinshanjiedao",
+      "homePageVersion": 0,
+      "id": 4211,
+      "maxCode": 20,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602009",
+      "orgInternalCode": ".1.6.1.9.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 209,
+        "internalId": 0
+      },
+      "orgName": "观音山街道",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 4130,
+        "maxCode": 0
+      },
+      "seq": 1,
+      "simplePinyin": "gysjd",
+      "subCount": 20,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1429,
+    "issueTypeName": "公共安全",
+    "occurDateStr": "2018.11.33",
+    "occurLocation": "汇城角九组",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "水生植物"
+  },
+  {
+    "content": "徐红星宅后一池塘，水质发绿，发出恶臭",
+    "createDateStr": "2018.11.34",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602",
+      "fullOrgName": "吕四港经济开发区-海渔村-网格2",
+      "fullPinyin": "chongchuanqu",
+      "homePageVersion": 0,
+      "id": 4130,
+      "maxCode": 23,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602",
+      "orgInternalCode": ".1.6.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 210,
+        "internalId": 0
+      },
+      "orgName": "崇川区",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 1496,
+        "maxCode": 0
+      },
+      "seq": 7,
+      "simplePinyin": "ccq",
+      "subCount": 22,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1412,
+    "issueTypeName": "环境保护",
+    "occurDateStr": "2018.11.34",
+    "occurLocation": "五组徐红星",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "水污染"
+  },
+  {
+    "content": "对黑臭水体进行治理",
+    "createDateStr": "2018.11.37",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602",
+      "fullOrgName": "边防村-网格2",
+      "fullPinyin": "chongchuanqu",
+      "homePageVersion": 0,
+      "id": 4130,
+      "maxCode": 23,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602",
+      "orgInternalCode": ".1.6.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 210,
+        "internalId": 0
+      },
+      "orgName": "崇川区",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 1496,
+        "maxCode": 0
+      },
+      "seq": 7,
+      "simplePinyin": "ccq",
+      "subCount": 22,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1362,
+    "issueTypeName": "环境保护",
+    "occurDateStr": "2018-04-24 00:00",
+    "occurLocation": "边防村",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "黑臭水沟"
+  },
+  {
+    "content": "养猪场讲猪粪随意堆放， 气味满文，影响周边，要求其整改",
+    "createDateStr": "2018.11.36",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602",
+      "fullOrgName": "东郊村-网格1",
+      "fullPinyin": "chongchuanqu",
+      "homePageVersion": 0,
+      "id": 4130,
+      "maxCode": 23,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602",
+      "orgInternalCode": ".1.6.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 210,
+        "internalId": 0
+      },
+      "orgName": "崇川区",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 1496,
+        "maxCode": 0
+      },
+      "seq": 7,
+      "simplePinyin": "ccq",
+      "subCount": 22,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1361,
+    "issueTypeName": "环境保护",
+    "occurDateStr": "2018.11.36",
+    "occurLocation": "闸河村",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "养猪户污染"
+  },
+  {
+    "content": "周永昌家焚烧玉米杆",
+    "createDateStr": "2018.11.23",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602",
+      "fullOrgName": "鸿西村-网格5",
+      "fullPinyin": "chongchuanqu",
+      "homePageVersion": 0,
+      "id": 4130,
+      "maxCode": 23,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602",
+      "orgInternalCode": ".1.6.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 210,
+        "internalId": 0
+      },
+      "orgName": "崇川区",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 1496,
+        "maxCode": 0
+      },
+      "seq": 7,
+      "simplePinyin": "ccq",
+      "subCount": 22,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1328,
+    "issueTypeName": "环境保护",
+    "occurDateStr": "2018.11.23",
+    "occurLocation": "垦北八组",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "秸秆禁烧"
+  },
+  {
+    "content": "对村里污染严重的养殖户走访核查，限期整改。",
+    "createDateStr": "2018.11.35",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602",
+      "fullOrgName": "长安村-网格2",
+      "fullPinyin": "chongchuanqu",
+      "homePageVersion": 0,
+      "id": 4130,
+      "maxCode": 23,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602",
+      "orgInternalCode": ".1.6.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 210,
+        "internalId": 0
+      },
+      "orgName": "崇川区",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 1496,
+        "maxCode": 0
+      },
+      "seq": 7,
+      "simplePinyin": "ccq",
+      "subCount": 22,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1327,
+    "issueTypeName": "环境保护",
+    "occurDateStr": "2018.11.35",
+    "occurLocation": "漫威",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "养殖污染整治"
+  },
+  {
+    "content": "下雨天为村民殷建辉办理退伍士兵的信息表",
+    "createDateStr": "2018.11.26",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602",
+      "fullOrgName": "果园村-网格2",
+      "fullPinyin": "chongchuanqu",
+      "homePageVersion": 0,
+      "id": 4130,
+      "maxCode": 23,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602",
+      "orgInternalCode": ".1.6.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 210,
+        "internalId": 0
+      },
+      "orgName": "崇川区",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 1496,
+        "maxCode": 0
+      },
+      "seq": 7,
+      "simplePinyin": "ccq",
+      "subCount": 22,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1326,
+    "issueTypeName": "环境保护",
+    "occurDateStr": "2018.11.26",
+    "occurLocation": "丰盛村",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "村民办理退伍士兵信息表"
+  },
+  {
+    "content": "泯沟水面有浮萍及水花生，已安排晴天就清理",
+    "createDateStr": "2018.11.22",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602",
+      "fullOrgName": "元北村-网格1",
+      "fullPinyin": "chongchuanqu",
+      "homePageVersion": 0,
+      "id": 4130,
+      "maxCode": 23,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602",
+      "orgInternalCode": ".1.6.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 210,
+        "internalId": 0
+      },
+      "orgName": "崇川区",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 1496,
+        "maxCode": 0
+      },
+      "seq": 7,
+      "simplePinyin": "ccq",
+      "subCount": 22,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1322,
+    "issueTypeName": "民生服务",
+    "occurDateStr": "2018.11.22",
+    "occurLocation": "XXX",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "水面有浮萍"
+  },
+  {
+    "content": "苏祥利源劳务下属工人表示提前走人，需要结算工资。经过与单位负责人沟通，双方商定工程量，写好欠条，等工程结束后，薪水予以发放。",
+    "createDateStr": "2018.11.25",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602",
+      "fullOrgName": "永胜村-网格1",
+      "fullPinyin": "chongchuanqu",
+      "homePageVersion": 0,
+      "id": 4130,
+      "maxCode": 23,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602",
+      "orgInternalCode": ".1.6.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 210,
+        "internalId": 0
+      },
+      "orgName": "崇川区",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 1496,
+        "maxCode": 0
+      },
+      "seq": 7,
+      "simplePinyin": "ccq",
+      "subCount": 22,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1321,
+    "issueTypeName": "民生服务",
+    "occurDateStr": "2018.11.25",
+    "occurLocation": "寅西村",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "江苏祥利源劳务欠薪"
+  },
+  {
+    "content": "生产垃圾堆",
+    "createDateStr": "2018.11.24",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602",
+      "fullOrgName": "鸿西村-网格1",
+      "fullPinyin": "chongchuanqu",
+      "homePageVersion": 0,
+      "id": 4130,
+      "maxCode": 23,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602",
+      "orgInternalCode": ".1.6.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 210,
+        "internalId": 0
+      },
+      "orgName": "崇川区",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 1496,
+        "maxCode": 0
+      },
+      "seq": 7,
+      "simplePinyin": "ccq",
+      "subCount": 22,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1320,
+    "issueTypeName": "民生服务",
+    "occurDateStr": "2018.11.24",
+    "occurLocation": "恒大海上威尼斯",
+    "receptStatus": "已反馈",
+    "sourceName": "默认系统",
+    "title": "生产垃圾堆"
+  },
+  {
+    "content": "处理沟边垃圾",
+    "createDateStr": "2018.11.27",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602",
+      "fullOrgName": "临河村-网格1",
+      "fullPinyin": "chongchuanqu",
+      "homePageVersion": 0,
+      "id": 4130,
+      "maxCode": 23,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602",
+      "orgInternalCode": ".1.6.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 210,
+        "internalId": 0
+      },
+      "orgName": "崇川区",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 1496,
+        "maxCode": 0
+      },
+      "seq": 7,
+      "simplePinyin": "ccq",
+      "subCount": 22,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1319,
+    "issueTypeName": "城市管理",
+    "occurDateStr": "2018.11.27",
+    "occurLocation": "德字十四组",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "处理沟边垃圾"
+  },
+  {
+    "content": "处理沟边垃圾",
+    "createDateStr": "2018.11.28",
+    "createOrg": {
+      "createDate": "2014-09-26 13:12:42",
+      "createUser": "admin",
+      "departmentNo": "320602",
+      "fullOrgName": "临河村-网格1",
+      "fullPinyin": "chongchuanqu",
+      "homePageVersion": 0,
+      "id": 4130,
+      "maxCode": 23,
+      "navigationVersion": 0,
+      "newDepartmentNo": "320602",
+      "orgInternalCode": ".1.6.1.",
+      "orgLevel": {
+        "displaySeq": 0,
+        "id": 210,
+        "internalId": 0
+      },
+      "orgName": "崇川区",
+      "orgType": {
+        "displaySeq": 0,
+        "id": 214,
+        "internalId": 0
+      },
+      "parentOrg": {
+        "id": 1496,
+        "maxCode": 0
+      },
+      "seq": 7,
+      "simplePinyin": "ccq",
+      "subCount": 22,
+      "subCountFun": 0,
+      "updateDate": "2018-05-30 10:05:35",
+      "updateUser": "admin"
+    },
+    "id": 1319,
+    "issueTypeName": "城市管理",
+    "occurDateStr": "2018.11.28",
+    "occurLocation": "第四网格",
+    "receptStatus": "已办结",
+    "sourceName": "默认系统",
+    "title": "处理沟边垃圾"
+  }
+]
